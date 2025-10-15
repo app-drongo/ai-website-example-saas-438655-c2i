@@ -20,8 +20,8 @@ const DEFAULT_HERO = {
   ],
   primaryCTA: 'Start Free Trial',
   secondaryCTA: 'Watch Demo',
-  primaryCTAHref: '/signup',
-  secondaryCTAHref: '#demo',
+  primaryCTAHref: 'https://appforms.ai',
+  secondaryCTAHref: '#pricing',
   imageUrl:
     'https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1920&auto=format&fit=crop',
   imageAlt: 'AI-powered dashboard analytics',
