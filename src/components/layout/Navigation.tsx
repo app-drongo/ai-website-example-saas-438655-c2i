@@ -73,14 +73,6 @@ export default function Navigation({
   // Navigation items
   const navigation = [
   {
-    name: "Home",
-    href: "#hero"
-  },
-  {
-    name: "Pricing",
-    href: "#pricing"
-  },
-  {
     name: "Contact",
     href: "#contact"
   }

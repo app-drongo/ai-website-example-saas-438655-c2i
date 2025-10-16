@@ -9,9 +9,9 @@ export default function HomePage() {
       </section>
       <section id="pricing">
         <Pricing />
-      <section id="contact">
-        <Contact />
       </section>
+          <section id="contact">
+        <Contact />
       </section>
     </>
   )
